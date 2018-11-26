@@ -1,6 +1,8 @@
 # copy-to-range-cli
 
-Copy files to a range of directories.
+[![Current npm package version](https://img.shields.io/npm/v/copy-to-range-cli.svg)](https://www.npmjs.com/package/copy-to-range-cli) 
+
+Copy a file to a range of directories.
 
 ## Installation
 
@@ -79,10 +81,23 @@ $ tree
 │ ...
 ```
 
+## Command Line/Shell Alias
+
+### Windows
+
+Follow the instructions on [this Stack Overflow answer](https://stackoverflow.com/a/21040825/8268314) to set up an alias on Windows.
+
+### UNIX
+
+```
+alias mdr=make-dir-range
+```
+
 ## Related
 
 - [copy-to-range](https://github.com/hutsoninc/copy-to-range) - API for this module
 - [make-dir-range-cli](https://github.com/hutsoninc/make-dir-range-cli) - Make directories from a range of integers
+- [move-to-range-cli](https://github.com/hutsoninc/move-to-range-cli) - Move files to corresponding directories given a range
 
 ## Authors
 

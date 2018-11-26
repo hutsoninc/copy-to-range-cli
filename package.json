@@ -45,7 +45,7 @@
     "url": "https://github.com/hutsoninc/copy-to-range-cli"
   },
   "dependencies": {
-    "copy-to-range": "^1.0.0",
+    "copy-to-range": "^1.0.3",
     "meow": "^5.0.0"
   }
 }

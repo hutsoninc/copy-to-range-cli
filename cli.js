@@ -44,4 +44,4 @@ if (input.length === 1) {
     process.exit(1);
 }
 
-copyToRange(input[0], input[1], cli.flags)
+copyToRange(input[0], input[1], cli.flags);
