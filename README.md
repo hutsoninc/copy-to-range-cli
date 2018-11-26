@@ -51,7 +51,7 @@ $ copy-to-range file.txt 1-3,5
 │ ...
 ```
 
-With options:
+## With options:
 
 ```
 $ tree
