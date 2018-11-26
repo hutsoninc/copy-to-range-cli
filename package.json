@@ -6,7 +6,7 @@
     "copy-to-range": "cli.js"
   },
   "engines": {
-    "node": ">=4"
+    "node": ">=8"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
